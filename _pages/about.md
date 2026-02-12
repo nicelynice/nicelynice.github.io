@@ -6,17 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am a third-year undergraduate student majoring in **Information Management and Information System** at the [School of Traffic and Transportation](https://jtys.lzjtu.edu.cn/), [Lanzhou Jiaotong University](https://www.lzjtu.edu.cn/). 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+Driven by a strong passion for **Large Language Models (LLMs)**, my current research and development focus on:
+- **LLM Application & Agents**: Building intelligent systems for complex task planning and execution.
+- **Model Optimization**: Expertise in **Fine-tuning (SFT/LoRA)** and **Quantization (AWQ/GPTQ)** to enhance model efficiency and deployment.
+- **High-Performance Computing**: Optimizing GPU kernels (Triton/CUDA) for deep learning operators.
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-————————————————
-版权声明：本文为CSDN博主「QiuDi666」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
+---
 
-For more info
+### 🌟 Featured Projects
+* **[FlagGems](https://github.com/FlagOpen/FlagGems)**: Contributed high-performance Triton kernels for operators like `logaddexp`, ensuring numerical stability and performance parity with native PyTorch.
+* **LLM Fine-tuning & Quantization**: (建议此处补充一个你做过的微调或量化项目名)
+
+---
+
+### 🔗 Quick Links
+[📄 Curriculum Vitae](../assets/Curriculum_Vitae.pdf) / [📧 Email](mailto:20230105101@stu.lzjtu.edu.cn) / [💻 GitHub](https://github.com/nicelynice) / [💬 WeChat](../images/wechat.jpg)
 ------
 
